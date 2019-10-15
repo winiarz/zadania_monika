@@ -1,0 +1,6 @@
+Hej.
+
+Zadanie polega na uzupełnieniu klasy Bank tak aby wszystie testy przeszły.
+Bardzo proszę nie ruszać nic w pliku test,h ani w funkcji main()
+
+Powodzenia :)
